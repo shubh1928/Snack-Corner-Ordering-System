@@ -1,6 +1,4 @@
 # Snack-Corner-Ordering-System
-This Java program simulates a snack corner's ordering system. Users can order various items from a menu, keep track of their total cost, and generate a bill at the end. The program handles user inputs robustly, ensuring only valid menu selections are processed.
-
 
 Project Name
 
@@ -8,7 +6,7 @@ Project Name
 
 Description
 
-This Java program simulates a user-friendly snack corner ordering experience. It features a clear menu, allows for quantity selection, calculates the total cost, and offers options to repeat the order or finish.
+This Java program simulates a snack corner's ordering system. Users can order various items from a menu, keep track of their total cost, and generate a bill at the end. The program handles user inputs robustly, ensuring only valid menu selections are processed.
 
 Features
 
@@ -21,12 +19,12 @@ Features
 
 Usage
 
-Compile the Java files: Use a Java compiler (e.g., javac) to compile both FoodOrder.java and TakingOrder.java.
-Run the program: Execute the program using java TakingOrder.
-Interactive Menu: The program will display the menu, allowing you to browse through available snacks.
-Order Selection: Enter the number corresponding to the desired item from the menu.
-Quantity Selection: Specify the quantity you want for the chosen item.
-Cost Calculation: The program will calculate the cost and update the total bill.
+Compile the Java files: Use a Java compiler (e.g., javac) to compile both FoodOrder.java and TakingOrder.java.</br>
+Run the program: Execute the program using java TakingOrder.</br>
+Interactive Menu: The program will display the menu, allowing you to browse through available snacks.</br>
+Order Selection: Enter the number corresponding to the desired item from the menu.</br>
+Quantity Selection: Specify the quantity you want for the chosen item.</br>
+Cost Calculation: The program will calculate the cost and update the total bill.</br>
 Continuing or Finishing: You'll be prompted if you want to order anything else (Y/N).
 <ul>
 <li>Choose Y to repeat steps 3-6.</li>
